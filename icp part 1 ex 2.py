@@ -1,3 +1,6 @@
+ex 2 of part 1
+
+
 import torch
 
 def activation(x):
